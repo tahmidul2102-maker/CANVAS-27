@@ -1,0 +1,6 @@
+{
+  "name": "Canvas 27",
+  "description": "An editorial digital magazine app with curated photography, interactive stories, visitor comments, and Canvas AI bilingual editorial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

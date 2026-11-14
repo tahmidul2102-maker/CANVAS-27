@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Canvas 27</string>
+    <string name="masthead_title">CANVAS 27</string>
+    <string name="masthead_subtitle">ISSUE NO. 27 · ART, CULTURE &amp; IDEAS</string>
+    <string name="action_submit_post">Submit</string>
+    <string name="action_upload_post">Upload Post</string>
+    <string name="action_ask_canvas_ai">Ask Canvas AI</string>
+    <string name="ai_firebase_notice">Sample AI Mode · Live Gemini chat &amp; captioning require Firebase AI Logic.</string>
+    <string name="comments_header">Visitor Comments</string>
+    <string name="comments_empty">Be the first reader to leave a note on this story.</string>
+    <string name="comment_name_label">Your Name</string>
+    <string name="comment_body_label">Share your thoughts...</string>
+    <string name="comment_post_button">Post Comment</string>
+    <string name="upload_sheet_title">Publish to Canvas 27</string>
+    <string name="upload_pick_photo">Tap to Select Photography</string>
+    <string name="upload_change_photo">Change Photo</string>
+    <string name="upload_publish_button">Publish Story</string>
+    <string name="back_content_description">Navigate back</string>
+    <string name="close_content_description">Close</string>
+    <string name="like_story_description">Like story</string>
+    <string name="like_comment_description">Like comment</string>
+    <string name="delete_comment_description">Delete comment</string>
+</resources>
